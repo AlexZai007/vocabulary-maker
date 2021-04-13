@@ -1,3 +1,5 @@
+
+# instaling
 cd vm
 
 pip install -r requirements.txt
@@ -5,26 +7,5 @@ pip install -r requirements.txt
 Python vm.py
 
 
-============================
 
 
-
-Потом отвечаем на все что вас спрашивают
- 
-Заходим в папку vm
-
-И достаём cp.txt
-
-Вот ваш словарь если он не работает
-
-То достаём parser.txt
-
-Легко и просто
-
-
-
-
-==========================
-
-
-Made by AZa
