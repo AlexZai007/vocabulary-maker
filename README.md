@@ -1,7 +1,7 @@
 # function
 Creation of databases with passwords.
 
-#advantages
+# advantages
 
 Using only the characters you want
 
