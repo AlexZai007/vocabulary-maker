@@ -12,14 +12,11 @@ Multi-core generation
 before the start, the total number of passwords is calculated
 
 # install
-
-
+git clone https://github.com/AlexZai007/vocabulary-maker
+pip install -r requirements.txt
 
 # started
 cd vm
-
-pip install -r requirements.txt
-
 Python vm.py
 
 # donations
