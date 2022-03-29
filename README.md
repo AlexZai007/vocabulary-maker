@@ -21,5 +21,4 @@ before the start, the total number of passwords is calculated
 
 ###### *Python vm.py*
 
-# donations
-ETH -0xa86c652307FdBeb123aE6636edFc8D25553143BE
+
